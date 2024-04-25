@@ -1,6 +1,4 @@
-
-
-    <h1>NGram Frequency Builder</h1>
+<h1>NGram Frequency Builder</h1>
 
     <p>This project implements a Java application for building n-gram frequency tables from text files.</p>
 
