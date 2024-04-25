@@ -26,10 +26,12 @@
     <h3>Running the Application</h3>
     <p>Compile and run <code>Runner.java</code> to launch the application:</p>
 
-    ```bash
+    <pre>
+    <code>bash
     javac Runner.java
     java Runner
-    ```
+    </code>
+    </pre>
 
     <h2>Structure</h2>
     <p>The project structure is as follows:</p>
@@ -51,6 +53,6 @@
     <p>This project is licensed under the MIT License. See <code>LICENSE</code> for more details.</p>
 
     <hr>
-    <p align="center">This README is created by ChatGPT.</p>
+    <p style="text-align: center;">This README is created by ChatGPT.</p>
 </body>
 </html>
