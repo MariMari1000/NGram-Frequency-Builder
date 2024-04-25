@@ -56,8 +56,7 @@
 <p>To start the NGram Frequency Builder application, execute the <code>Runner</code> class:</p>
 <pre><code>java Runner</code></pre>
 
-<h3>Steps to Use the Application:</h3>
-  <ol>
+<h3>Steps to Use the Application:</h3><ol>
         <li><strong>Specify the Text File Directory:</strong></li>
         <ul>
             <li>Enter <code>1</code> in the console to specify the directory containing text files for analysis.</li>
