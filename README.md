@@ -68,30 +68,30 @@ ngram-frequency-builder/
 
     <h3>Menu Class (<code>Menu.java</code>)</h3>
 
-    <p>The <code>Menu</code> class manages user interaction and options for the NGram Frequency Builder. It provides
+<p>The <code>Menu</code> class manages user interaction and options for the NGram Frequency Builder. It provides
         methods to:</p>
 
-    <ul>
+<ul>
         <li>Show options to the user.</li>
         <li>Retrieve and store user inputs.</li>
         <li>Execute methods of the application based on user choices.</li>
     </ul>
 
-    <h3>NGramOutputter Class (<code>NGramOutputter.java</code>)</h3>
+<h3>NGramOutputter Class (<code>NGramOutputter.java</code>)</h3>
 
-    <p>The <code>NGramOutputter</code> class contains methods to write n-gram frequencies into an output file. It
+<p>The <code>NGramOutputter</code> class contains methods to write n-gram frequencies into an output file. It
         includes:</p>
 
-    <ul>
-        <li><code>save(Object[][] table, String file)</code>: Saves n-gram frequencies to the specified output
+<ul>
+<li><code>save(Object[][] table, String file)</code>: Saves n-gram frequencies to the specified output
             file.</li>
     </ul>
 
-    <h3>Parser Class (<code>Parser.java</code>)</h3>
+<h3>Parser Class (<code>Parser.java</code>)</h3>
 
-    <p>The <code>Parser</code> class handles text parsing and n-gram frequency counting. It includes methods to:</p>
+<p>The <code>Parser</code> class handles text parsing and n-gram frequency counting. It includes methods to:</p>
 
-    <ul>
+<ul>
         <li><code>parse(String file)</code>: Parse text from a file and count n-gram frequencies.</li>
         <li><code>parseDir(String dir)</code>: Parse all files in a specified directory.</li>
     </ul>
@@ -100,7 +100,7 @@ ngram-frequency-builder/
 
     <p>Contributions to this project are welcome! To contribute:</p>
 
-    <ol>
+<ol>
         <li>Fork the repository.</li>
         <li>Create your feature branch (<code>git checkout -b feature/new-feature</code>).</li>
         <li>Commit your changes (<code>git commit -am 'Add new feature'</code>).</li>
@@ -108,10 +108,7 @@ ngram-frequency-builder/
         <li>Create a new Pull Request.</li>
     </ol>
 
-    <h2>License</h2>
-    </body>
 
-    <p>This project is licensed under the MIT License. See <a href="LICENSE">LICENSE</a> for details.</p>
 
 </body>
 
