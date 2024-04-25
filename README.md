@@ -25,11 +25,11 @@ ngram-frequency-builder/
         <li><code>Runner.java</code>: Main class to execute the application.</li>
     </ul>
 
-    <h2>Instructions for the User</h2>
+<h2>Instructions for the User</h2>
 
-    <p>After running the application, follow these steps:</p>
+<p>After running the application, follow these steps:</p>
 
-    <ol>
+<ol>
         <li>Enter <code>1</code> to specify the directory you'd like to analyze.</li>
         <li>Enter the name of the directory with text files (e.g., <code>C:\Users\marij\Desktop\textfiles</code>).</li>
         <li>Enter <code>2</code> to specify the size of the n-gram (choose a number between <code>1</code> and <code>5</code>).</li>
@@ -40,27 +40,27 @@ ngram-frequency-builder/
         <li>Enter <code>5</code> to save the output file.</li>
     </ol>
 
-    <h2>Usage</h2>
+<h2>Usage</h2>
 
-    <h3>Running the Application</h3>
+<h3>Running the Application</h3>
 
-    <p>To run the application:</p>
+<p>To run the application:</p>
 
-    <ol>
+<ol>
         <li>Compile the Java files:</li>
     </ol>
 
-    <pre><code>javac ie/atu/sw/Runner.java</code></pre>
+<pre><code>javac ie/atu/sw/Runner.java</code></pre>
 
-    <ol start="2">
+<ol start="2">
         <li>Execute the application:</li>
     </ol>
 
-    <pre><code>java ie.atu.sw.Runner</code></pre>
+<pre><code>java ie.atu.sw.Runner</code></pre>
 
-    <h2>Dependencies</h2>
+<h2>Dependencies</h2>
 
-    <ul>
+<ul>
         <li>Java Development Kit (JDK) 8 or higher</li>
     </ul>
 
