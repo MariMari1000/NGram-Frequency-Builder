@@ -61,12 +61,12 @@ ngram-frequency-builder/
 <h2>Dependencies</h2>
 
 <ul>
-        <li>Java Development Kit (JDK) 8 or higher</li>
+<li>Java Development Kit (JDK) 8 or higher</li>
     </ul>
 
-    <h2>Project Details</h2>
+<h2>Project Details</h2>
 
-    <h3>Menu Class (<code>Menu.java</code>)</h3>
+<h3>Menu Class (<code>Menu.java</code>)</h3>
 
 <p>The <code>Menu</code> class manages user interaction and options for the NGram Frequency Builder. It provides
         methods to:</p>
@@ -92,13 +92,13 @@ ngram-frequency-builder/
 <p>The <code>Parser</code> class handles text parsing and n-gram frequency counting. It includes methods to:</p>
 
 <ul>
-        <li><code>parse(String file)</code>: Parse text from a file and count n-gram frequencies.</li>
-        <li><code>parseDir(String dir)</code>: Parse all files in a specified directory.</li>
+<li><code>parse(String file)</code>: Parse text from a file and count n-gram frequencies.</li>
+<li><code>parseDir(String dir)</code>: Parse all files in a specified directory.</li>
     </ul>
 
-    <h2>Contributing</h2>
+<h2>Contributing</h2>
 
-    <p>Contributions to this project are welcome! To contribute:</p>
+<p>Contributions to this project are welcome! To contribute:</p>
 
 <ol>
         <li>Fork the repository.</li>
