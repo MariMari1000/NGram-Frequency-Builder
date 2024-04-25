@@ -26,12 +26,10 @@
     <h3>Running the Application</h3>
     <p>Compile and run <code>Runner.java</code> to launch the application:</p>
 
-    <pre>
-    <code>bash
+    <pre><code>
     javac Runner.java
     java Runner
-    </code>
-    </pre>
+    </code></pre>
 
     <h2>Structure</h2>
     <p>The project structure is as follows:</p>
