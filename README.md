@@ -1,12 +1,11 @@
 <h1>NGram Frequency Builder</h1>
+<p>This project implements a Java application for building n-gram frequency tables from text files.</p>
 
-    <p>This project implements a Java application for building n-gram frequency tables from text files.</p>
+<h2>Project Overview</h2>
 
-    <h2>Project Overview</h2>
+<p>The project directory structure is organized as follows:</p>
 
-    <p>The project directory structure is organized as follows:</p>
-
-    <pre>
+<pre>
 ngram-frequency-builder/
 ├── src/
 │   └── ie/
