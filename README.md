@@ -18,7 +18,7 @@ ngram-frequency-builder/
 └── README.md
     </pre>
 
-    <ul>
+<ul>
         <li><code>Menu.java</code>: Manages user interaction and options.</li>
         <li><code>NGramOutputter.java</code>: Handles output of n-gram frequencies to files.</li>
         <li><code>Parser.java</code>: Parses text files to generate n-grams and their frequencies.</li>
